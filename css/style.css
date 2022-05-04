@@ -10,6 +10,7 @@ html{
 
 body{
     background-color: aqua;
+    font-family: courier;
 }
 
 
@@ -30,4 +31,5 @@ body{
 #post p{
     font-size: 1.6rem;
     text-align: right;
+    margin-bottom: 30px;
 }
