@@ -15,20 +15,28 @@ body{
 
 #container{
     width: 800px;
-    padding: 20px;
+    padding: 0px 0px 10px 0px;
     border:1px solid black;
     margin:10px auto;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 #cabecera{
-    width: 400px;
-    text-align: center;
-    margin: 0 auto;
-    font-size: 2rem;
+    background-color:#33A;
+    box-shadow: 0px 5px 30px 0px rgb(0,0,0);
+    text-align: left;
+    font-size: 2.5rem;
     padding: 10px;
-    color:brown;
+    color:white;
     font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+#cabecera #tabline{
+    font-size: 1.4rem;
+    margin-left: 20px;
 }
 
 #post h1{
