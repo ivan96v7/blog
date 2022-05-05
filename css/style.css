@@ -16,7 +16,7 @@ body{
 
 #container{
     width: 800px;
-    padding: 0px 0px 10px 0px;
+    padding: 0px 10px 10px 0px;
     border:1px solid black;
     margin:10px auto;
     border-radius: 10px;
