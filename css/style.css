@@ -35,6 +35,12 @@ body{
     
 }
 
+#cabecera img{
+    width: 30px;
+    height: 30px;
+    vertical-align:middle;
+}
+
 #cabecera #tabline{
     font-size: 1.4rem;
     margin-left: 20px;
