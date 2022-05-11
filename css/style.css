@@ -38,8 +38,7 @@ body{
 #cabecera img{
     width: 30px;
     height: 30px;
-    position: relative;
-    top:7px;
+    vertical-align:middle;
 }
 
 #cabecera #tabline{
