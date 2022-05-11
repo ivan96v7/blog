@@ -51,3 +51,10 @@ body{
     text-align: right;
     margin-bottom: 30px;
 }
+
+footer{
+width: 800px;
+margin: 0 auto;
+background:red;
+text-align:center
+}
